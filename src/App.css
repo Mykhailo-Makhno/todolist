@@ -1,0 +1,15 @@
+/*.App {*/
+/*  padding: 30px;*/
+/*  display: flex;*/
+/*}*/
+
+/*.App > div {*/
+/*  margin-right: 50px;*/
+/*}*/
+
+/*.active {*/
+/*  background-color: cornflowerblue;*/
+/*}*/
+.is_done{
+  opacity: 0.5;
+}
